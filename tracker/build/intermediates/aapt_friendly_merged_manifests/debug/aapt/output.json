@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.lw.sdk",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 10101,
+        "versionName": "1.1.1",
+        "outputFile": "tracker-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.lw.sdk",
+        "split": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:4:11-31
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:5-51
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:5-51
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:5-51
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:5-51
+INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:5-51
+	tools:overrideLibrary
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:15-49
+	android:targetSdkVersion
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:5-51
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:7:5-51
+		INJECTED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:12:5-22:19
+receiver#com.lw.sdk.extra.InstallReferrerReceiver
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:15:13-68
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from /Users/ajain17/work/code/idiation/sdk/lw-sdk-android/tracker/src/main/AndroidManifest.xml:19:25-76
