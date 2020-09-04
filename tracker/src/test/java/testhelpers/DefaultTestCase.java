@@ -1,8 +1,8 @@
 package testhelpers;
 
 import org.junit.runner.RunWith;
-import com.lw.sdk.LadderWinner;
-import com.lw.sdk.LWTracer;
+import com.github.ladderwinner.LadderWinner;
+import com.github.ladderwinner.LWTracer;
 import org.robolectric.Robolectric;
 import org.robolectric.annotation.Config;
 

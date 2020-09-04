@@ -1,8 +1,8 @@
 package testhelpers;
 
 
-import com.lw.sdk.LWTraceBuilder;
-import com.lw.sdk.extra.LadderWinnerApplication;
+import com.github.ladderwinner.LWTraceBuilder;
+import com.github.ladderwinner.extra.LadderWinnerApplication;
 import org.robolectric.TestLifecycleApplication;
 import org.robolectric.shadows.ShadowLog;
 

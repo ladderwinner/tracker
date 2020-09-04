@@ -1,101 +1,101 @@
-com/lw/sdk/LadderWinner.java
- com.lw.sdk.LadderWinner
-com/lw/sdk/tools/CurrencyFormatter.java
- com.lw.sdk.tools.CurrencyFormatter
-com/lw/sdk/extra/CustomDimension.java
- com.lw.sdk.extra.CustomDimension
+com/github/ladderwinner/tools/ActivityHelper.java
+ com.github.ladderwinner.tools.ActivityHelper
+com/github/ladderwinner/dispatcher/Event.java
+ com.github.ladderwinner.dispatcher.Event
+com/github/ladderwinner/LWTracer.java
+ com.github.ladderwinner.LWTracer
+ com.github.ladderwinner.LWTracer$Callback
+com/github/ladderwinner/tools/CurrencyFormatter.java
+ com.github.ladderwinner.tools.CurrencyFormatter
+com/github/ladderwinner/extra/DownloadTracker.java
+ com.github.ladderwinner.extra.DownloadTracker
+ com.github.ladderwinner.extra.DownloadTracker$Extra
+ com.github.ladderwinner.extra.DownloadTracker$Extra$ApkChecksum
+ com.github.ladderwinner.extra.DownloadTracker$Extra$Custom
+ com.github.ladderwinner.extra.DownloadTracker$Extra$None
 com/lw/sdk/BuildConfig.java
  com.lw.sdk.BuildConfig
-com/lw/sdk/extra/LWTraceUtil.java
- com.lw.sdk.extra.LWTraceUtil
- com.lw.sdk.extra.LWTraceUtil$1
- com.lw.sdk.extra.LWTraceUtil$AppTracking
- com.lw.sdk.extra.LWTraceUtil$AppTracking$1
- com.lw.sdk.extra.LWTraceUtil$BaseEvent
- com.lw.sdk.extra.LWTraceUtil$CartUpdate
- com.lw.sdk.extra.LWTraceUtil$ContentImpression
- com.lw.sdk.extra.LWTraceUtil$ContentInteraction
- com.lw.sdk.extra.LWTraceUtil$Dimension
- com.lw.sdk.extra.LWTraceUtil$Download
- com.lw.sdk.extra.LWTraceUtil$EventBuilder
- com.lw.sdk.extra.LWTraceUtil$Exception
- com.lw.sdk.extra.LWTraceUtil$Goal
- com.lw.sdk.extra.LWTraceUtil$Order
- com.lw.sdk.extra.LWTraceUtil$Outlink
- com.lw.sdk.extra.LWTraceUtil$Screen
- com.lw.sdk.extra.LWTraceUtil$Search
- com.lw.sdk.extra.LWTraceUtil$UncaughtExceptions
- com.lw.sdk.extra.LWTraceUtil$VisitVariables
-com/lw/sdk/TraceMe.java
- com.lw.sdk.TraceMe
-com/lw/sdk/extra/DimensionQueue.java
- com.lw.sdk.extra.DimensionQueue
-com/lw/sdk/extra/InstallReferrerReceiver.java
- com.lw.sdk.extra.InstallReferrerReceiver
-com/lw/sdk/tools/BuildInfo.java
- com.lw.sdk.tools.BuildInfo
-com/lw/sdk/tools/ActivityHelper.java
- com.lw.sdk.tools.ActivityHelper
-com/lw/sdk/LWTraceBuilder.java
- com.lw.sdk.LWTraceBuilder
-com/lw/sdk/dispatcher/DispatcherFactory.java
- com.lw.sdk.dispatcher.DispatcherFactory
-com/lw/sdk/tools/Checksum.java
- com.lw.sdk.tools.Checksum
-com/lw/sdk/extra/LadderWinnerExceptionHandler.java
- com.lw.sdk.extra.LadderWinnerExceptionHandler
-com/lw/sdk/dispatcher/EventDiskCache.java
- com.lw.sdk.dispatcher.EventDiskCache
-com/lw/sdk/dispatcher/DefaultDispatcherFactory.java
- com.lw.sdk.dispatcher.DefaultDispatcherFactory
-com/lw/sdk/dispatcher/DefaultDispatcher.java
- com.lw.sdk.dispatcher.DefaultDispatcher
- com.lw.sdk.dispatcher.DefaultDispatcher$1
- com.lw.sdk.dispatcher.DefaultDispatcher$2
-com/lw/sdk/dispatcher/DispatchMode.java
- com.lw.sdk.dispatcher.DispatchMode
-com/lw/sdk/dispatcher/Dispatcher.java
- com.lw.sdk.dispatcher.Dispatcher
-com/lw/sdk/tools/Connectivity.java
- com.lw.sdk.tools.Connectivity
- com.lw.sdk.tools.Connectivity$Type
-com/lw/sdk/tools/UrlHelper.java
- com.lw.sdk.tools.UrlHelper
-com/lw/sdk/tools/DeviceHelper.java
- com.lw.sdk.tools.DeviceHelper
-com/lw/sdk/extra/LadderWinnerApplication.java
- com.lw.sdk.extra.LadderWinnerApplication
-com/lw/sdk/dispatcher/DefaultPacketSender.java
- com.lw.sdk.dispatcher.DefaultPacketSender
-com/lw/sdk/extra/DownloadTracker.java
- com.lw.sdk.extra.DownloadTracker
- com.lw.sdk.extra.DownloadTracker$Extra
- com.lw.sdk.extra.DownloadTracker$Extra$ApkChecksum
- com.lw.sdk.extra.DownloadTracker$Extra$Custom
- com.lw.sdk.extra.DownloadTracker$Extra$None
-com/lw/sdk/dispatcher/Event.java
- com.lw.sdk.dispatcher.Event
-com/lw/sdk/dispatcher/Packet.java
- com.lw.sdk.dispatcher.Packet
-com/lw/sdk/extra/CustomVariables.java
- com.lw.sdk.extra.CustomVariables
-com/lw/sdk/tools/PropertySource.java
- com.lw.sdk.tools.PropertySource
-com/lw/sdk/dispatcher/PacketSender.java
- com.lw.sdk.dispatcher.PacketSender
-com/lw/sdk/extra/EcommerceItems.java
- com.lw.sdk.extra.EcommerceItems
- com.lw.sdk.extra.EcommerceItems$Item
-com/lw/sdk/dispatcher/PacketFactory.java
- com.lw.sdk.dispatcher.PacketFactory
-com/lw/sdk/QueryParams.java
- com.lw.sdk.QueryParams
-com/lw/sdk/LWTracer.java
- com.lw.sdk.LWTracer
- com.lw.sdk.LWTracer$Callback
-com/lw/sdk/tools/Objects.java
- com.lw.sdk.tools.Objects
-com/lw/sdk/dispatcher/EventCache.java
- com.lw.sdk.dispatcher.EventCache
-com/lw/sdk/LegacySettingsPorter.java
- com.lw.sdk.LegacySettingsPorter
+com/github/ladderwinner/extra/LWTraceUtil.java
+ com.github.ladderwinner.extra.LWTraceUtil
+ com.github.ladderwinner.extra.LWTraceUtil$1
+ com.github.ladderwinner.extra.LWTraceUtil$AppTracking
+ com.github.ladderwinner.extra.LWTraceUtil$AppTracking$1
+ com.github.ladderwinner.extra.LWTraceUtil$BaseEvent
+ com.github.ladderwinner.extra.LWTraceUtil$CartUpdate
+ com.github.ladderwinner.extra.LWTraceUtil$ContentImpression
+ com.github.ladderwinner.extra.LWTraceUtil$ContentInteraction
+ com.github.ladderwinner.extra.LWTraceUtil$Dimension
+ com.github.ladderwinner.extra.LWTraceUtil$Download
+ com.github.ladderwinner.extra.LWTraceUtil$EventBuilder
+ com.github.ladderwinner.extra.LWTraceUtil$Exception
+ com.github.ladderwinner.extra.LWTraceUtil$Goal
+ com.github.ladderwinner.extra.LWTraceUtil$Order
+ com.github.ladderwinner.extra.LWTraceUtil$Outlink
+ com.github.ladderwinner.extra.LWTraceUtil$Screen
+ com.github.ladderwinner.extra.LWTraceUtil$Search
+ com.github.ladderwinner.extra.LWTraceUtil$UncaughtExceptions
+ com.github.ladderwinner.extra.LWTraceUtil$VisitVariables
+com/github/ladderwinner/dispatcher/Dispatcher.java
+ com.github.ladderwinner.dispatcher.Dispatcher
+com/github/ladderwinner/tools/BuildInfo.java
+ com.github.ladderwinner.tools.BuildInfo
+com/github/ladderwinner/dispatcher/DispatchMode.java
+ com.github.ladderwinner.dispatcher.DispatchMode
+com/github/ladderwinner/dispatcher/DefaultPacketSender.java
+ com.github.ladderwinner.dispatcher.DefaultPacketSender
+com/github/ladderwinner/dispatcher/DispatcherFactory.java
+ com.github.ladderwinner.dispatcher.DispatcherFactory
+com/github/ladderwinner/dispatcher/DefaultDispatcher.java
+ com.github.ladderwinner.dispatcher.DefaultDispatcher
+ com.github.ladderwinner.dispatcher.DefaultDispatcher$1
+ com.github.ladderwinner.dispatcher.DefaultDispatcher$2
+com/github/ladderwinner/extra/DimensionQueue.java
+ com.github.ladderwinner.extra.DimensionQueue
+com/github/ladderwinner/tools/Objects.java
+ com.github.ladderwinner.tools.Objects
+com/github/ladderwinner/tools/Connectivity.java
+ com.github.ladderwinner.tools.Connectivity
+ com.github.ladderwinner.tools.Connectivity$Type
+com/github/ladderwinner/dispatcher/EventDiskCache.java
+ com.github.ladderwinner.dispatcher.EventDiskCache
+com/github/ladderwinner/QueryParams.java
+ com.github.ladderwinner.QueryParams
+com/github/ladderwinner/extra/LadderWinnerExceptionHandler.java
+ com.github.ladderwinner.extra.LadderWinnerExceptionHandler
+com/github/ladderwinner/LegacySettingsPorter.java
+ com.github.ladderwinner.LegacySettingsPorter
+com/github/ladderwinner/tools/PropertySource.java
+ com.github.ladderwinner.tools.PropertySource
+com/github/ladderwinner/extra/EcommerceItems.java
+ com.github.ladderwinner.extra.EcommerceItems
+ com.github.ladderwinner.extra.EcommerceItems$Item
+com/github/ladderwinner/LWTraceBuilder.java
+ com.github.ladderwinner.LWTraceBuilder
+com/github/ladderwinner/dispatcher/Packet.java
+ com.github.ladderwinner.dispatcher.Packet
+com/github/ladderwinner/tools/Checksum.java
+ com.github.ladderwinner.tools.Checksum
+com/github/ladderwinner/TraceMe.java
+ com.github.ladderwinner.TraceMe
+com/github/ladderwinner/extra/LadderWinnerApplication.java
+ com.github.ladderwinner.extra.LadderWinnerApplication
+com/github/ladderwinner/dispatcher/PacketFactory.java
+ com.github.ladderwinner.dispatcher.PacketFactory
+com/github/ladderwinner/dispatcher/PacketSender.java
+ com.github.ladderwinner.dispatcher.PacketSender
+com/github/ladderwinner/dispatcher/EventCache.java
+ com.github.ladderwinner.dispatcher.EventCache
+com/github/ladderwinner/extra/CustomDimension.java
+ com.github.ladderwinner.extra.CustomDimension
+com/github/ladderwinner/LadderWinner.java
+ com.github.ladderwinner.LadderWinner
+com/github/ladderwinner/dispatcher/DefaultDispatcherFactory.java
+ com.github.ladderwinner.dispatcher.DefaultDispatcherFactory
+com/github/ladderwinner/extra/InstallReferrerReceiver.java
+ com.github.ladderwinner.extra.InstallReferrerReceiver
+com/github/ladderwinner/tools/DeviceHelper.java
+ com.github.ladderwinner.tools.DeviceHelper
+com/github/ladderwinner/extra/CustomVariables.java
+ com.github.ladderwinner.extra.CustomVariables
+com/github/ladderwinner/tools/UrlHelper.java
+ com.github.ladderwinner.tools.UrlHelper

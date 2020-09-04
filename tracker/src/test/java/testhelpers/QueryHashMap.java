@@ -1,7 +1,7 @@
 package testhelpers;
 
-import com.lw.sdk.QueryParams;
-import com.lw.sdk.TraceMe;
+import com.github.ladderwinner.QueryParams;
+import com.github.ladderwinner.TraceMe;
 
 import java.util.HashMap;
 
